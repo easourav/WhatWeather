@@ -5,4 +5,20 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="degCelsius">134.5° C</string>
+    <string name="demo_date">5/7/2018</string>
+    <string name="demoDay">Tuesday</string>
+    <string name="demoLocation">Dhaka</string>
+    <string name="todo">TODO</string>
+    <string name="scattered_cloud">Scattered Cloud</string>
+    <string name="max">Max</string>
+    <string name="_17_0_u00b0_c">17.0° C</string>
+    <string name="min">Min</string>
+    <string name="sun_rise">Sun rise</string>
+    <string name="demoTime">07:09:24 AM</string>
+    <string name="sun_set">Sun Set</string>
+    <string name="humidity">Humidity</string>
+    <string name="_86">86%</string>
+    <string name="pressure">Pressure</string>
+    <string name="_1021_71_hpa">1021.71 hPa</string>
 </resources>
