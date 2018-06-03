@@ -2,4 +2,7 @@
     <string name="app_name">What Weather</string>
     <string name="weather_api_key">0227e6010071a6909fc84a8b6c5d2037</string>
     <string name="no_data_found_yet">No Data Found Yet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
