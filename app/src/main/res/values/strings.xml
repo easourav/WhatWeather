@@ -21,4 +21,8 @@
     <string name="_86">86%</string>
     <string name="pressure">Pressure</string>
     <string name="_1021_71_hpa">1021.71 hPa</string>
+    <string name="today">Today</string>
+    <string name="min_9_2_c">Min 9.2 C</string>
+    <string name="january_11_2018">January 11, 2018</string>
+    <string name="max_9_2_c">Max 9.2 C</string>
 </resources>
